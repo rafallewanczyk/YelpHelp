@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "782417398371",
+    "project_id": "yelphelp-309809",
+    "storage_bucket": "yelphelp-309809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782417398371:android:a292406e7d3a038fb10656",
+        "android_client_info": {
+          "package_name": "com.example.yelphelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782417398371-nsjbdfbcbjng7ss08no8jjap34ulqou6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yelphelp",
+            "certificate_hash": "4ef3953a685118ee31c0c04cec043e4e77d427bf"
+          }
+        },
+        {
+          "client_id": "782417398371-ru4o3t34mebkr91i4nv8tb6dmoa8ap91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaCG3QphqbADxumN-tCxj5f-QnUQrloi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782417398371-ru4o3t34mebkr91i4nv8tb6dmoa8ap91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

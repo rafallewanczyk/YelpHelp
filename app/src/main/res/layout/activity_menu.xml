@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MenuActivity">
+
+    <Button
+        android:id="@+id/createOfferButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Create an offer" />
+
+    <Button
+        android:id="@+id/myOffersButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Accepted Offers" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="My Offers"
+        android:id="@+id/editOffers"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Offers Answers"
+        android:id="@+id/belongingOffers"/>
+
+    <Button
+        android:id="@+id/browseOffersButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Browse offers" />
+
+    <Button
+        android:id="@+id/settingsButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Settings" />
+
+    <Button
+        android:id="@+id/signOutButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sign Out" />
+
+</LinearLayout>
